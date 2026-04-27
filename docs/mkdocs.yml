@@ -1,0 +1,11 @@
+site_name: Switch Admin Platform
+site_description: Documentación técnica del sistema de administración de switches
+site_author: SGMTD
+theme:
+  name: material
+  language: es
+nav:
+  - Inicio: index.md
+  - Instalación Ubuntu: instalacion-ubuntu.md
+  - Arquitectura: arquitectura.md
+  - Seguridad: seguridad.md
